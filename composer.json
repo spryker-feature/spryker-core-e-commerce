@@ -18,6 +18,8 @@
     "spryker-feature/search": "~2018.11.0",
     "spryker-feature/shipment": "~2018.11.0",
     "spryker-feature/spryker-core": "~2018.11.0",
-    "spryker-feature/tax": "~2018.11.0"
+    "spryker-feature/tax": "~2018.11.0",
+    "spryker/cart-items-products-relationship": "^1.0.1",
+    "spryker/carts-rest-api": "^2.0.1"
   }
 }
