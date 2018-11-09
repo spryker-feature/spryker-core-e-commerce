@@ -1,0 +1,23 @@
+{
+  "name": "spryker-feature/spryker-core-e-commerce",
+  "description": "Spryker Core E-commerce [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/cart": "~2018.11.0",
+    "spryker-feature/catalog": "~2018.11.0",
+    "spryker-feature/checkout": "~2018.11.0",
+    "spryker-feature/customer-account-management": "~2018.11.0",
+    "spryker-feature/inventory-management": "~2018.11.0",
+    "spryker-feature/order-management": "~2018.11.0",
+    "spryker-feature/payments": "~2018.11.0",
+    "spryker-feature/prices": "~2018.11.0",
+    "spryker-feature/product": "~2018.11.0",
+    "spryker-feature/search": "~2018.11.0",
+    "spryker-feature/shipment": "~2018.11.0",
+    "spryker-feature/spryker-core": "~2018.11.0",
+    "spryker-feature/tax": "~2018.11.0"
+  }
+}
