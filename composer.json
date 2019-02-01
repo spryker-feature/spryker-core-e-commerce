@@ -19,5 +19,10 @@
     "spryker-feature/shipment": "^201902.0",
     "spryker-feature/spryker-core": "^201902.0",
     "spryker-feature/tax": "^201902.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
