@@ -7,23 +7,23 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cart": "^201902.0",
-    "spryker-feature/catalog": "^201902.0",
-    "spryker-feature/checkout": "^201902.0",
-    "spryker-feature/customer-account-management": "^201902.0",
-    "spryker-feature/inventory-management": "^201902.0",
-    "spryker-feature/order-management": "^201902.0",
-    "spryker-feature/payments": "^201902.0",
-    "spryker-feature/prices": "^201902.0",
-    "spryker-feature/product": "^201902.0",
-    "spryker-feature/search": "^201902.0",
-    "spryker-feature/shipment": "^201902.0",
-    "spryker-feature/spryker-core": "^201902.0",
-    "spryker-feature/tax": "^201902.0"
+    "spryker-feature/cart": "^201903.0",
+    "spryker-feature/catalog": "^201903.0",
+    "spryker-feature/checkout": "^201903.0",
+    "spryker-feature/customer-account-management": "^201903.0",
+    "spryker-feature/inventory-management": "^201903.0",
+    "spryker-feature/order-management": "^201903.0",
+    "spryker-feature/payments": "^201903.0",
+    "spryker-feature/prices": "^201903.0",
+    "spryker-feature/product": "^201903.0",
+    "spryker-feature/search": "^201903.0",
+    "spryker-feature/shipment": "^201903.0",
+    "spryker-feature/spryker-core": "^201903.0",
+    "spryker-feature/tax": "^201903.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201902.x-dev"
+      "dev-master": "201903.x-dev"
     }
   }
 }
