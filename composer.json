@@ -6,20 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.1",
-    "spryker-feature/cart": "^201903.0",
-    "spryker-feature/catalog": "^201903.0",
-    "spryker-feature/checkout": "^201903.0",
-    "spryker-feature/customer-account-management": "^201903.0",
-    "spryker-feature/inventory-management": "^201903.0",
-    "spryker-feature/order-management": "^201903.0",
-    "spryker-feature/payments": "^201903.0",
-    "spryker-feature/prices": "^201903.0",
-    "spryker-feature/product": "^201903.0",
-    "spryker-feature/search": "^201903.0",
-    "spryker-feature/shipment": "^201903.0",
-    "spryker-feature/spryker-core": "^201903.0",
-    "spryker-feature/tax": "^201903.0"
+    "php": ">=7.1"
   },
   "extra": {
     "branch-alias": {
